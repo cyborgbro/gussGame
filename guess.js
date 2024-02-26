@@ -16,11 +16,12 @@ const word = [
   "create",
   "update",
   "delete",
-  "maser",
-  "branch",
-  "mainly",
-  "elzero",
+  "master",
+  "eating",
+  "easily",
+  "roblox",
   "school",
+  "gaming",
 ];
 
 wordToGuess = word[Math.floor(Math.random() * word.length)].toLowerCase();
